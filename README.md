@@ -158,6 +158,10 @@ Ces résultats confirment que **la localisation constitue le facteur principal d
 
 ---
 
+## 📈 Importance des variables
+
+![Importance des variables](téléchargé.png)
+
 ## Réalisé par
 
 **Manel Garmachi**
