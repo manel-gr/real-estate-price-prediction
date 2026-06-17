@@ -177,8 +177,14 @@ Ces résultats confirment que **la localisation constitue le facteur principal d
 ## Réalisé par
 
 **Manel Garmachi**
+
 **manel.garmmachi@esen.tn**
+
 **+216 20 407 649**
+
+**www.linkedin.com/in/manel-garmachi**
+
+
 
  Junior Data Analyst 
 
