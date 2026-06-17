@@ -164,7 +164,7 @@ Ces résultats confirment que **la localisation constitue le facteur principal d
 
 ## 📊 Matrice de corrélation
 
-![Matrice de corrélation](matrice%20de%20corrélation.png)
+![Matrice de corrélation](matrice%20corrélation.png)
 
 ## 📉 Prix moyen par année
 
