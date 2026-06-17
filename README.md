@@ -158,6 +158,18 @@ Ces résultats confirment que **la localisation constitue le facteur principal d
 
 ---
 
+## 📈 Évolution du prix moyen
+
+![Évolution du prix](Evolution_prix.png)
+
+## 📊 Matrice de corrélation
+
+![Matrice de corrélation](matrice%20de%20corrélation.png)
+
+## 📉 Prix moyen par année
+
+![Prix moyen par année](prix%20moyen%20par%20année.png)
+
 ## 📈 Importance des variables
 
 ![Importance des variables](téléchargé.png)
